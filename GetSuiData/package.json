@@ -1,0 +1,16 @@
+{
+  "name": "getsuidata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/sui.js": "^0.21.0",
+    "aws-sdk": "^2.1291.0",
+    "dotenv": "^16.0.3"
+  }
+}
